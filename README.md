@@ -5,3 +5,9 @@
 ### Tools used:
 1. HTML
 2. CSS
+
+## Project Preview:
+
+![FKTaFpWXMAEXGex](https://user-images.githubusercontent.com/40047791/178818090-512d5ae2-c293-418a-8163-8d33d491ddde.jpg)
+
+### https://ark229.github.io/Linktree-Clone/
